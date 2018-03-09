@@ -1,4 +1,4 @@
-package = "external-oauth"
+package = "external-oauth3"
 version = "1.1-5"
 source = {
   url = "git://github.com/kkbob/kong-external-oauth",
