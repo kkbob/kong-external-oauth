@@ -1,7 +1,7 @@
 package = "external-oauth"
 version = "1.1-5"
 source = {
-  url = "git:://github.com/kkbob/kong-external-oauth",
+  url = "git://github.com/kkbob/kong-external-oauth",
   tag = "v1.0",
 }
 description = {
