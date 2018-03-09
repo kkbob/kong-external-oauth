@@ -2,7 +2,7 @@ package = "external-oauth"
 version = "1.1-5"
 source = {
   url = "git://github.com/kkbob/kong-external-oauth",
-  tag = "v1.0",
+  tag = "master",
 }
 description = {
   summary = "A Kong plugin, that let you use an external Oauth 2.0 provider to protect your API",
